@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Phoebe Ruth
-- 👀 I’m interested in software 
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning front end web development at ALX Africa
 - 💞️ I’m looking to collaborate with everyone as we #do hard things
 - 📫 How to reach me Phoeberuth.w@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: i am a dancer 
 
 <!---
